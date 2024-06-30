@@ -17,15 +17,11 @@
       <details open>
         <summary>My computer's specs</summary>
           <div align="left">
-            ```javascript
-            /**
-            * Dell Optiplex 3010 SFF
-            * Intel Core i3-3240
-            * MSI R5 230
-            * 8GB DDR3 RAM
-            * Microsoft Windows 7 Professional SP1 OEM
-            */
-            ```
+            <p>Dell Optiplex 3010 SFF</br>
+            Intel Core i3-3240</br>
+            MSI R5 230</br>
+            8GB DDR3 RAM</br>
+            Microsoft Windows 7 Professional SP1 OEM</p>
           </div>
       </details>
 
@@ -33,15 +29,11 @@
   <details open>
         <summary>Languages I speak</summary>
           <div align="left">
-            ```javascript
-            /**
-            * Hungarian - As primary,
-            * English - As secondary,
-            * Chinese - Learned for one year, got a certification but forgot everything,
-            * Spanish - Learned for one year, not finished learning it,
-            * Currently learning German - Weil es einfach ist und Spaß macht!
-            */
-            ```
+            <p>Hungarian - As primary,</br>
+            English - As secondary,</br>
+            Chinese - Learned for one year, got a certification but forgot everything,</br>
+            Spanish - Learned for one year, not finished learning it,</br>
+            Currently learning German - Weil es einfach ist und Spaß macht!</p>
           </div>
       </details>
 </details>
