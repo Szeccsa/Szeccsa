@@ -51,7 +51,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="#"><img src="/assets/i/youhuu/pointing.png" width="400px" height="400px" draggable="false" alt="Youhuu" title="Youhuu the racka sheep, property of World Athletics"></a><br/>
+  <a href="#"><img src="/assets/i/youhuu/pointing.png" width="400px" height="500px" draggable="false" alt="Youhuu" title="Youhuu the racka sheep, property of World Athletics"></a><br/>
   <p style="font-size: 15px;"><sub><em>Youhuu and the World Athletics logo are property of World Athletics! No personnel or company approved to use it!<br/>
   (Maybe one day I can buy it's real version with it's licenses and rights...)</em></sub></p>
 </div>
