@@ -12,5 +12,6 @@
 </div>
 <br>
 <div align="center">
-  <a href="#"><img src="/assets/i/youhuu/pointing.png" width="400px" height="400px"></a>
+  <a href="#"><img src="/assets/i/youhuu/pointing.png" width="400px" height="400px"></a> <br/>
+  <p style="font-size: 15px;"><sub><em>Youhuu and the World Athletics logo are property of World Athletics! No personnel or company approved to use it.</em></sub></p>
 </div>
