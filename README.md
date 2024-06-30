@@ -5,7 +5,7 @@
 <div align="center">
 
   💻 Take a look at my repositories: [github.com/Szeccsa/repositories](https://github.com/Szeccsa?tab=repositories).<br/>
-  💬 Send me a message through ВКонтакте: [Szeccsa](https://vk.com/szeccsa).<br/>
+  💬 Send me a message through ВКонтакте: [Szeccsa](https://vk.com/szeccsa)<br/>
   📧 Contact me via email at [hello.szeccsa@icloud.com](mailto:hello.szeccsa@icloud.com)<br/>
 </div>
 <br>
