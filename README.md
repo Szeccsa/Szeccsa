@@ -34,7 +34,7 @@
       </details>
 
 
-  <details closed>
+  <details close>
         <summary>Languages I speak</summary>
           <div align="center">
             <p>Hungarian - As primary,</br>
