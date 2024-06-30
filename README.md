@@ -22,7 +22,7 @@
         Since <a href="https://replit.com/" target="_blank" title="It's not a promotion!">Replit</a> has discontinued it's free service in December 2023 I was forced to move from PHP to vanilla HTML, CSS and JavaScript.<br/>
         I do love watching athletics live broadcasting on the TV.</p>
       </div>
-      <details open>
+      <details close>
         <summary>My computer's specs</summary>
           <div align="center">
             <p>Dell Optiplex 3010 SFF</br>
@@ -34,7 +34,7 @@
       </details>
 
 
-  <details open>
+  <details closed>
         <summary>Languages I speak</summary>
           <div align="center">
             <p>Hungarian - As primary,</br>
