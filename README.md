@@ -33,7 +33,7 @@
       <details open>
         <summary>My internet speed</summary>
           <div align="center">
-            <a href="https://www.speedtest.net/result/16440292714"><img src="https://www.speedtest.net/result/16440292714.png"/></a>
+            <a href="https://www.speedtest.net/result/16440292714"><img src="https://www.speedtest.net/result/16440292714.png" width="400px" height="300px" draggable="false"/></a>
           </div>
       </details>
       <details>
