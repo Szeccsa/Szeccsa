@@ -15,7 +15,12 @@
   <details>
     <summary>About me</summary>
       <div align="center">
-        <p>I'm a 17 year old teen from Hungary, currently learning to be a pastry chef, but it's kinda boring. In my freetime I often go for a walk, cycling or go to the local gym. My hobby is learning HTML, PHP and ASPX to create stunning websites. Sometimes I take ideas from <a href="https://web.archive.org/" target="_blank">web.archive.org</a> since I do love old website designs from the years 2010-2014. Since <a href="https://replit.com/" target="_blank" title="It's not a promotion!">Replit</a> has discontinued it's free service in December 2023 I was forced to move from PHP to vanilla HTML, CSS and JavaScript. I do love watching athletics live broadcasting on the TV.</p>
+        <p>I'm a 17 year old teen from Hungary, currently learning to be a pastry chef, but it's kinda boring.<br/>
+        In my freetime I often go for a walk, cycling or go to the local gym.<br/>
+        My hobby is learning HTML, PHP and ASPX to create stunning websites.<br/>
+        Sometimes I take ideas from <a href="https://web.archive.org/" target="_blank">web.archive.org</a> since I do love old website designs from the years 2010-2014.<br/>
+        Since <a href="https://replit.com/" target="_blank" title="It's not a promotion!">Replit</a> has discontinued it's free service in December 2023 I was forced to move from PHP to vanilla HTML, CSS and JavaScript.<br/>
+        I do love watching athletics live broadcasting on the TV.</p>
       </div>
       <details open>
         <summary>My computer's specs</summary>
@@ -33,10 +38,10 @@
         <summary>Languages I speak</summary>
           <div align="center">
             <p>Hungarian - As primary,</br>
-            English - As secondary,</br>
-            Chinese - Learned for one year, got a certification but forgot everything,</br>
-            Spanish - Learned for one year, not finished learning it,</br>
-            Currently learning German - Weil es einfach ist und Spaß macht!</p>
+            English - As secondary (2014-),</br>
+            Chinese - Learned for one year, got a certification but forgot everything (2015-2016),</br>
+            Spanish - Learned for one year, ended up with a B but forgot the most (2022-2023),</br>
+            Currently learning German - Weil es einfach ist und Spaß macht! (2023-)</p>
           </div>
       </details>
 </details>
