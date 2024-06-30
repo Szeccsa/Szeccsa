@@ -15,7 +15,7 @@
   <details>
     <summary>About me</summary>
       <div align="center">
-        <p>I'm a 17 year old teen from Hungary, currently learning to be a pastry chef, but it's kinda boring. In my freetime I often go for a walk, cycling or go to the local gym. My hobby is learning HTML, PHP and ASPX to create stunning websites. Sometimes I take ideas from <a href="https://web.archive.org/" target="_blank">web.archive.org</a> since I do love old website designs from the years 2010-2014. Since Replit has discontinued it's free service in December 2023 I was forced to move from PHP to vanilla HTML, CSS and JavaScript. I do love watching athletics live broadcasting on the TV.</p>
+        <p>I'm a 17 year old teen from Hungary, currently learning to be a pastry chef, but it's kinda boring. In my freetime I often go for a walk, cycling or go to the local gym. My hobby is learning HTML, PHP and ASPX to create stunning websites. Sometimes I take ideas from <a href="https://web.archive.org/" target="_blank">web.archive.org</a> since I do love old website designs from the years 2010-2014. Since <a href="https://replit.com/" target="_blank" title="It's not a promotion!">Replit</a> has discontinued it's free service in December 2023 I was forced to move from PHP to vanilla HTML, CSS and JavaScript. I do love watching athletics live broadcasting on the TV.</p>
       </div>
       <details open>
         <summary>My computer's specs</summary>
