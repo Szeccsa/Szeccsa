@@ -2,9 +2,7 @@
   <h1>Oi, my name is Kevin!</h1>
   <b>I'm a self-employed HTML developer from Hungary.</b>
 </div>
-
 <div align="center">
-   
   ✨ Learn more about me on [szeccsa.github.io](https://szeccsa.github.io/).<br/>
   💻 Take a look at my repositories: [github.com/Szeccsa/repositories](https://github.com/Szeccsa?tab=repositories).<br/>
   💬 Send me a message through ВКонтакте: [Szeccsa](https://vk.com/szeccsa).<br/>
@@ -32,9 +30,13 @@
             Microsoft Windows 7 Professional SP1 OEM</p>
           </div>
       </details>
-
-
-  <details>
+      <details open>
+        <summary>My internet speed</summary>
+          <div align="center">
+            <a href="https://www.speedtest.net/result/16440292714"><img src="https://www.speedtest.net/result/16440292714.png"/></a>
+          </div>
+      </details>
+      <details>
         <summary>Languages I speak</summary>
           <div align="center">
             <p>Hungarian - As primary,</br>
@@ -44,8 +46,7 @@
             Currently learning German - Weil es einfach ist und Spaß macht! (2023-)</p>
           </div>
       </details>
-</details>
-
+  </details>
 </div>
 <br>
 <div align="center">
@@ -55,6 +56,6 @@
 </div>
 <br/>
 <div align="right">
-  <p><sub>If you find a typo in this description, please ignore it. I try my best to write without syntax errors.</sub></p><br/>
+  <p>If you find a typo in this description, please ignore it. I try my best to write without syntax errors.</p><br/>
   <p>Last updated: 30th June 2024.</p>
 </div>
