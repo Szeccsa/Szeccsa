@@ -16,7 +16,7 @@
     <summary>See more</summary>
       <details open>
         <summary>My computer's specs</summary>
-          <div align="left">
+          <div align="center">
             <p>Dell Optiplex 3010 SFF</br>
             Intel Core i3-3240</br>
             MSI R5 230</br>
@@ -28,7 +28,7 @@
 
   <details open>
         <summary>Languages I speak</summary>
-          <div align="left">
+          <div align="center">
             <p>Hungarian - As primary,</br>
             English - As secondary,</br>
             Chinese - Learned for one year, got a certification but forgot everything,</br>
