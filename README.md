@@ -59,6 +59,5 @@
 </div>
 <br/>
 <div align="right">
-  <p>If you find a typo in this description, please ignore it. I try my best to write without syntax errors.</p><br/>
-  <p>Last updated: 30th June 2024.</p>
+  <p>Last updated: 1st July 2024.</p>
 </div>
