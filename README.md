@@ -48,7 +48,6 @@ https://youtu.be/7OvLinmDeUM?si=IMAfe6S_UNVDcoEB
             English - As secondary (2014-),</br>
             Chinese - Learned for one year, got a certification but forgot everything (2015-2016),</br>
             Spanish - Learned for one year, ended up with a B but forgot the most (2022-2023),</br>
-            Currently learning German - Weil es einfach ist und Spaß macht! (2023-)</p>
           </div>
       </details>
   </details>
@@ -56,9 +55,9 @@ https://youtu.be/7OvLinmDeUM?si=IMAfe6S_UNVDcoEB
 <br>
 <div align="center">
   <a href="#"><img src="/assets/i/youhuu/pointing.png" width="400px" height="450px" draggable="false" alt="Youhuu" title="Youhuu the racka sheep, property of World Athletics"></a><br/>
-  <p style="font-size: 15px;"><sub><em>Youhuu and the World Athletics logo are the property of World Athletics! No personnel or organization approved to use it!</em></sub></p>
+  <p style="font-size: 15px;"><sub><em>Youhuu and the World Athletics logo are the property of World Athletics! No personnel or organization has approved to use it!</em></sub></p>
 </div>
 <br/>
 <div align="right">
-  <p>Last updated: 3rd July 2024.</p>
+  <p>Last updated: 13th July 2024.</p>
 </div>
