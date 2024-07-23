@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 
-<img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/Youhuu2.png" align="right" width="200">
+<img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/Youhuu_wave2.png" align="right" width="200">
 
 You may know me as "Szeccsa", "KKevin" or "Youhuu" on the web. And this is my story:
 
@@ -58,7 +58,7 @@ Try to impress me and maybe you will get some extra points :)
 https://szeccsa.github.io
 
 <div align="center">
-  <p style="font-size: 15px;"><sub><em>Youhuu the racka sheep and the World Athletics logo are the property of World Athletics! No personnel or organization has approved to use it!</em></sub></p>
+  <p style="font-size: 15px;"><sub><em>Youhuu the racka sheep and the World Athletics logo are the property of World Athletics! No personnel has approved to use it!</em></sub></p>
 </div>
 <br/>
 <div align="right">
