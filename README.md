@@ -1,4 +1,4 @@
-# My name is Kevin Király 👋
+# My name is Kevin Király (alias Szeccsa/Youhuu's fan/KKevin) 👋
 
 ## 📖 About Me
 
@@ -36,7 +36,7 @@ In my free time, I enjoy:
 
 That's who am I. Talk with me, show me your code or in fact fool around with mine.
 <br/>
-You can get in touch with me through my socials or via E-Mail.
+You can get in touch with me through my socials (on Discord) or via E-Mail.
 <br/>
 Try to impress me and maybe you will get some extra points :)
 
