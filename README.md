@@ -8,14 +8,19 @@ You may know me as "Szeccsa", "KKevin" or "Youhuu" on the web. And this is my st
 
 I'm a seventeen years old person from Hungary. I speak two languages, Hungarian and English. Since 2022 I'm working and learning as a chef, being all-day-long in the kitchen. But since I hate the people around me and the job itself sucks, after school I'm planning to be a BPA (Border Patrol Agent) for a better and brighter future. I do love mascots. That's a positive thing about me and that's one thing why I need the money. :D
 
-I'm very concern about my privacy due to a recent event that lasted more than four months. It took the half of my family away from me, got calls while working or at the middle of the night, got adult content through my voicemal, spam SIM card orders from <a href="https://www.giffgaff.com/" target="_blank">Giffgaff</a> through the mail. And as it turned out, my friends did all of it. Since that I do not let anyone near to me. That's why this document is so short.
-
 In my free time, I enjoy:
 
 - 🐟 Fishing with my mates and older brother.
 - 💻 Playing video games and making awful websites.
 - 🚴 Going to the gym with my mates, go cycling or walking to the neighbor cities.
 - 🎶 Listening to literally any kind of music.
+
+### 🔧 Programming Languages
+
+![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 💻 Programming journey
 
@@ -34,13 +39,6 @@ I mainly used ASPX (Active Server Pages eXtended or Microsoft ASP.NET) for local
 ## ❓ What I Do
 
 - 🔧 I make small websites for myself and the people around me. It's hard since I don't really have ideas on my own, so I must use some old website's design or an Open-source framework like Bootstrap and PortalCSS.
-
-### 🔧 Programming Languages
-
-![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📫 Let's Connect
 
