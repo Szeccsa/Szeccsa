@@ -22,20 +22,6 @@ In my free time, I enjoy:
 ![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 💻 Programming journey
-
-ASPX 2020 - 2022
-<br/>
-HTML / PHP 2022 - 2023
-<br/>
-HTML 2023 - Present
-<br/>
-CSS 2020 - Present
-<br/>
-JavaScript 2022 - Present
-
-I mainly used ASPX (Active Server Pages eXtended or Microsoft ASP.NET) for local projects, then switched to PHP when I moved to Replit. But since Replit has discontinued it's free hosting I was forced to move to vanilla HTML, CSS and JS. Since December 2023 I stopped "back-end" and "server-side" development, since Github doesn't support server-side code only "static" projects.
-
 ## ❓ What I Do
 
 - 🔧 I make small websites for myself and the people around me. It's hard since I don't really have ideas on my own, so I must use some old website's design or an Open-source framework like Bootstrap and PortalCSS.
