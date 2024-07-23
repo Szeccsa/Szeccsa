@@ -24,9 +24,9 @@ In my free time, I enjoy:
 
 ## 📌 Projects
 
-- Telenor Hungary's website from August 2013 <a href="https://github.com/Szeccsa/telenor.hu" target="_blank">telenor.hu</a> ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- Save time on CSS media queries with <a href="https://github.com/Szeccsa/responsiver" target="_blank">Responsiver</a> ![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=white)
-- Hide your website while it's loading images, embeds and more with <a href="https://github.com/Szeccsa/l0ader" target="_blank">L0ader</a> ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- <p>Telenor Hungary's website from August 2013 <a href="https://github.com/Szeccsa/telenor.hu" target="_blank">telenor.hu</a> ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)</p>
+- <p>Save time on CSS media queries with <a href="https://github.com/Szeccsa/responsiver" target="_blank">Responsiver</a> ![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=white)</p>
+- <p>Hide your website while it's loading images, embeds and more with <a href="https://github.com/Szeccsa/l0ader" target="_blank">L0ader</a> ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)</p>
 
 ## 📫 Let's Connect
 
