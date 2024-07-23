@@ -6,7 +6,7 @@
 
 You may know me as "Szeccsa", "KKevin" or "Youhuu" on the web. And this is my story:
 
-I'm a seventeen years old person from Hungary. I speak two languages, Hungarian and English. Since 2022 I'm working and learning as a chef, being all-day-long in the kitchen. But since I hate the people around me and the job itself sucks, after school I'm planning to be a BPA (Border Patrol Agent) for a better and brighter future. And since I have some big plans for the future I need the money to accomplish them. I do love mascots. That's a positive thing about me. :D
+I'm a seventeen years old person from Hungary. I speak two languages, Hungarian and English. Since 2022 I'm working and learning as a chef, being all-day-long in the kitchen. But since I hate the people around me and the job itself sucks, after school I'm planning to be a BPA (Border Patrol Agent) for a better and brighter future. I do love mascots. That's a positive thing about me and that's one thing why I need the money. :D
 
 I'm very concern about my privacy due to a recent event that lasted more than four months. It took the half of my family away from me, got calls while working or at the middle of the night, got adult content through my voicemal, spam SIM card orders from <a href="https://www.giffgaff.com/" target="_blank">Giffgaff</a> through the mail. And as it turned out, my friends did all of it. Since that I do not let anyone near to me. That's why this document is so short.
 
