@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 
-<img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/Youhuu2.png" align="right" width="200">
+<img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/map_original.png" align="right" width="200">
 
 You may know me as "Szeccsa", "KKevin" or "Youhuu" on the web. And this is my story:
 
