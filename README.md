@@ -8,14 +8,22 @@ You may know me as "Szeccsa" on the WWW. And this is my story:
 
 I'm a seventeen years old person from Hungary. I speak two languages, Hungarian and English. I'm planning to get the "language certification" because I do love to learn the English and other languages Since 2022 I'm working and learning as a chef, being all-day-long in the kitchen. But since I hate the people around me and the job itself sucks, after school I'm planning to be a BPA (Border Patrol Agent) for a better and brighter future. And since I have some big plans for the future I need the money to accomplish them. I do love mascots. That's a positive thing about me. :D
 
-I mainly used ASPX (Active Server Pages eXtended or Microsoft ASP.NET) for local projects, then switched to PHP when I moved to Replit. But since Replit has discontinued it's free hosting I was forced to move to vanilla HTML, CSS and JS. Since December 2023 I stopped "back-end" and "server-side" development, since Github doesn't support server-side code only "static" projects.
-
 In my free time, I enjoy:
 
 - 🐟 Fishing with my mates and older brother.
 - 💻 Playing video games and making awful websites.
 - 🚴 Going to the gym with my mates, go cycling or walking to the neighbor cities.
 - 🎶 Listening to literally any kind of music.
+
+## 💻 programming journey
+
+ASPX 2020 - 2022
+HTML / PHP 2022 - 2023
+HTML 2023 - Present
+CSS 2020 - Present
+JavaScript 2022 - Present
+
+I mainly used ASPX (Active Server Pages eXtended or Microsoft ASP.NET) for local projects, then switched to PHP when I moved to Replit. But since Replit has discontinued it's free hosting I was forced to move to vanilla HTML, CSS and JS. Since December 2023 I stopped "back-end" and "server-side" development, since Github doesn't support server-side code only "static" projects.
 
 ## ❓ What I Do
 
