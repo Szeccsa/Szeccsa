@@ -1,4 +1,4 @@
-# 👋 My name is Kevin Király
+# My name is Kevin Király 👋
 
 ## ❓ About Me
 
@@ -24,7 +24,9 @@ In my free time, I enjoy:
 
 ## 📌 Projects
 
-- 🔧 I make small websites for myself and the people around me. It's hard since I don't really have ideas on my own, so I must use some old website's design or an Open-source framework like Bootstrap and PortalCSS.
+- <a href="https://github.com/Szeccsa/telenor.hu" target="_blank">telenor.hu</a> ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+- <a href="https://github.com/Szeccsa/responsiver" target="_blank">Responsiver</a> ![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=white)
+- <a href="https://github.com/Szeccsa/l0ader" target="_blank">L0ader</a> ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 📫 Let's Connect
 
