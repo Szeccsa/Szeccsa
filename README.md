@@ -2,7 +2,7 @@
 
 ## 📖 My Story
 
-<img src="/Szeccsa/Szeccsa/raw/main/assets/i/youhuu/youhuu2.png" align="right" width="200">
+<img src="/Szeccsa/Szeccsa/raw/main/assets/i/youhuu/Youhuu2.png" align="right" width="200">
 
 I was born in 2007 in Hungary. I speak two languages, English and Hungarian. I'm working as a pastry chef but it's not going well since I hate the people around me and the job itself too. When I finish the school I'm planning to work as a border patroller for more money and for a better future.
 
