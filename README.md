@@ -1,15 +1,14 @@
 # My name is Kevin Király 👋
 
-## 📖 My Story
+## 📖 About Me
 
 <img src="https://raw.githubusercontent.com/Szeccsa/Szeccsa/main/assets/i/youhuu/Youhuu2.png" align="right" width="200">
-<p style="text-align: right;">Youhuu the racka sheep</p>
 
-I was born in 2007 in Hungary. I speak two languages, English and Hungarian. I'm working as a pastry chef but it's not going well since I hate the people around me and the job itself too. When I finish the school I'm planning to work as a border patroller for more money and for a better future.
+You may know me as "Szeccsa" on the WWW. And this is my story:
+
+I'm a seventeen years old person from Hungary. I speak two languages, Hungarian and English. I'm planning to get the "language certification" because I do love to learn the English and other languages Since 2022 I'm working and learning as a chef, being all-day-long in the kitchen. But since I hate the people around me and the job itself sucks, after school I'm planning to be a BPA (Border Patrol Agent) for a better and brighter future. And since I have some big plans for the future I need the money to accomplish them. I do love mascots. That's a positive thing about me. :D
 
 I mainly used ASPX (Active Server Pages eXtended or Microsoft ASP.NET) for local projects, then switched to PHP when I moved to Replit. But since Replit has discontinued it's free hosting I was forced to move to vanilla HTML, CSS and JS. Since December 2023 I stopped "back-end" and "server-side" development, since Github doesn't support server-side code only "static" projects.
-
-## 🌟 Hobbies
 
 In my free time, I enjoy:
 
@@ -17,7 +16,6 @@ In my free time, I enjoy:
 - 💻 Playing video games and making awful websites.
 - 🚴 Going to the gym with my mates, go cycling or walking to the neighbor cities.
 - 🎶 Listening to literally any kind of music.
-- 💭 Thinking about one thing all-day long how and when I can make it.
 
 ## ❓ What I Do
 
