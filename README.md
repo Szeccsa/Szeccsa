@@ -1,6 +1,6 @@
-# My name is Kevin Király 👋
+# 👋 My name is Kevin Király
 
-## 📖 About Me
+## ❓ About Me
 
 <img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/Youhuu_wave2.png" alt="Youhuu" title="Youhuu the racka sheep" align="right" width="200">
 
@@ -22,14 +22,15 @@ In my free time, I enjoy:
 ![PHP Badge](https://img.shields.io/badge/-PHP-8892bf?style=flat&logo=php&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## ❓ What I Do
+## 📌 Projects
 
 - 🔧 I make small websites for myself and the people around me. It's hard since I don't really have ideas on my own, so I must use some old website's design or an Open-source framework like Bootstrap and PortalCSS.
 
 ## 📫 Let's Connect
 
 - 💬 Get in touch with me through the following platforms:
-- 📧 Via E-Mail at [hello.szeccsa@icloud.com](hello.szeccsa@icloud.com).
+- 📧 Via E-Mail at [mailto:hello.szeccsa@icloud.com](hello.szeccsa@icloud.com).
+- 📧 Or get help at [mailto:support.szeccsa@icloud.com](support.szeccsa@icloud.com).
 - 🔗 Follow me on [ВКонтакте](https://vk.com/szeccsa).
 
 ## 🚀 Szeccsa
