@@ -31,18 +31,19 @@ In my free time, I enjoy:
 - 💬 Get in touch with me through the following platforms:
 - 📧 Via E-Mail at [hello.szeccsa@icloud.com](hello.szeccsa@icloud.com).
 - 🔗 Follow me on [ВКонтакте](https://vk.com/szeccsa).
-- 💬 Or on [Twitter](https://twitter.com/Szeccsa).
 
 ## 🚀 Szeccsa
 
 That's who am I. Talk with me, show me your code or in fact fool around with mine.
+<br/>
 You can get in touch with me through my socials or via E-Mail.
+<br/>
 Try to impress me and maybe you will get some extra points :)
 
 https://szeccsa.github.io
 
 <div align="center">
-  <p style="font-size: 15px;"><sub><em>Youhuu the racka sheep and the World Athletics logo are the property of World Athletics! No personnel has approved to use it!</em></sub></p>
+  <p style="font-size: 20px;"><sub><em>Youhuu the racka sheep and the World Athletics logo are the property of World Athletics! No personnel has approved to use it!</em></sub></p>
 </div>
 <br/>
 <div align="right">
