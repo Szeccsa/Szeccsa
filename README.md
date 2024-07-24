@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/Youhuu_wave2.png" alt="Youhuu" title="Youhuu the racka sheep" align="right" width="200">
 
-You may know me as "Szeccsa", "KKevin" or "Youhuu" on the web. And this is my story:
+You may know me as "Szeccsa" on the web. And this is my story:
 
 My name is Kevin Király. I'm a seventeen years old person from Hungary. I speak two languages, Hungarian and English. Since 2022 I'm working and learning as a chef, being all-day-long in the kitchen. But since I hate the people around me and the job itself sucks, after school I'm planning to be a BPA (Border Patrol Agent) for a better and brighter future. I do love mascots. That's a positive thing about me and that's one thing why I need the money. :D
 
