@@ -50,5 +50,5 @@ Try to impress me and maybe you will get some extra points. :)
 </div>
 <br/>
 <div align="right">
-  <p>Last updated: 23th July 2024.</p>
+  <p>Last updated: 24th July 2024.</p>
 </div>
