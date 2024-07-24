@@ -35,7 +35,9 @@ In my free time, I enjoy:
 
 ## 🚀 Szeccsa
 
-That's who am I. Talk with me, show me your code or in fact fool around with mine.
+That's who am I.
+<br/>
+Talk with me, show me your code or in fact fool around with mine.
 <br/>
 You can get in touch with me through my socials or via E-Mail.
 <br/>
