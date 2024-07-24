@@ -1,4 +1,4 @@
-
+## ❓ About Me
 
 <img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/Youhuu_wave2.png" alt="Youhuu" title="Youhuu the racka sheep" align="right" width="200">
 
@@ -41,7 +41,7 @@ Talk with me, show me your code or in fact fool around with mine.
 <br/>
 You can get in touch with me through my socials or via E-Mail.
 <br/>
-Try to impress me and maybe you will get some extra points :)
+Try to impress me and maybe you will get some extra points. :)
 
 ## ©️ Copyright
 
