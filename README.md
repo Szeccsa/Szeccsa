@@ -14,7 +14,8 @@ In my free time, I enjoy:
 - 💻 Playing video games and making awful websites.
 - 🚴 Going to the gym with my mates, go cycling or walking to the neighbor cities.
 - 🎶 Listening to literally any kind of music.
-
+<br/>
+<br/>
 ## 🔧 Programming Languages
 
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
