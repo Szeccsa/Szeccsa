@@ -28,7 +28,7 @@ In my free time, I enjoy:
 - Save time on CSS media queries with <a href="https://github.com/Szeccsa/responsiver" target="_blank">Responsiver</a>
 - Hide your website while it's loading images, embeds and more with <a href="https://github.com/Szeccsa/l0ader" target="_blank">L0ader</a>
 
-## 📫 Let's Connect
+## ✈️ Let's Connect
 
 - 💬 Get in touch with me through the following platforms:
 - 📧 Via E-Mail at [hello.szeccsa@icloud.com](mailto:hello.szeccsa@icloud.com).
@@ -43,7 +43,7 @@ You can get in touch with me through my socials or via E-Mail.
 <br/>
 Try to impress me and maybe you will get some extra points :)
 
-https://szeccsa.github.io
+## ©️ Copyright
 
 <div align="center">
   <p style="font-size: 20px;"><sub><em>Youhuu the racka sheep and the World Athletics logo are the property of World Athletics! No personnel has approved to use it!</em></sub></p>
