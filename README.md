@@ -28,10 +28,8 @@ In my free time, I enjoy:
 
 ## ✈️ Let's Connect
 
-- 💬 Get in touch with me through the following platforms:
 - 📧 Via E-Mail at [hello.szeccsa@icloud.com](mailto:hello.szeccsa@icloud.com).
 - 📧 Or get help at [support.szeccsa@icloud.com](mailto:support.szeccsa@icloud.com).
-- 🔗 Follow me on [ВКонтакте](https://vk.com/szeccsa).
 
 ## 🚀 Szeccsa
 
