@@ -1,6 +1,6 @@
 ## ❓ About Me
 
-<img src="https://github.com/Szeccsa/Szeccsa/blob/main/assets/i/youhuu/Youhuu_wave2.png" alt="Youhuu" title="Youhuu the racka sheep" align="right" width="200">
+<img src="/assets/i/youhuu/Wave2.svg" alt="Youhuu" title="Youhuu the racka sheep" align="right" width="200">
 
 You may know me as "Szeccsa" on the web. And this is my story:
 
