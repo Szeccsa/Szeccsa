@@ -5,4 +5,4 @@
 - 💬 Ask me about HTML, CSS, JS, PHP, ASP.NET and Markdown
 - 📫 How to reach me: [E-Mail](mailto:hello.szeccsa@icloud.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I h8 furries
+- Sometimes sweet, sometimes cheeky. But always fun.
