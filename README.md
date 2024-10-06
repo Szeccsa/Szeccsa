@@ -9,7 +9,7 @@
 
 ## PC Specs
 
-<table class="table">
+<table>
                         <tr>
                           <th>Component</th>
                           <th>Manufacturer</th>
