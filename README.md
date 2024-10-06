@@ -50,3 +50,8 @@
                             <td>Ubuntu Studio 24.04 LTS</td>
                         </tr>
                     </table>
+
+## Languages I speak
+
+- Hungarian
+- English (Of course the British varriant mate)
