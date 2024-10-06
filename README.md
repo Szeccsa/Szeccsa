@@ -55,3 +55,7 @@
 
 - Hungarian
 - English (Of course the British varriant mate, bit odd innit?)
+
+## Projects
+
+Check the full list of my new projects on my website!
