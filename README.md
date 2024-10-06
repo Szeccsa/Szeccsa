@@ -54,4 +54,4 @@
 ## Languages I speak
 
 - Hungarian
-- English (Of course the British varriant mate)
+- English (Of course the British varriant mate, bit odd innit?)
