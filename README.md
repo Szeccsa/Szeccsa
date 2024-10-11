@@ -37,7 +37,7 @@
                         <tr>
                             <td>Disk Drives</td>
                             <td>Samsung + Seagate</td>
-                            <td>128GB SSD + 1TB SSHD<sup>1</sup></td>
+                            <td>128GB SSD + 1TB SSHD</td>
                         </tr>
                         <tr>
                             <td>Wireless Card</td>
