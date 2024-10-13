@@ -77,7 +77,7 @@
                         <tr>
                             <td>Disk Drives</td>
                             <td>Seagate</td>
-                            <td>1TB SSHD<sup>1</sup></td>
+                            <td>1TB SSHD</td>
                         </tr>
                         <tr>
                             <td>Operating System</td>
