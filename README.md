@@ -9,7 +9,7 @@
 ## PC Specs
 
 <table>
-                        <tr>
+                        <tbody><tr>
                           <th>Component</th>
                           <th>Manufacturer</th>
                           <th>Amount / Version / Size</th>
@@ -27,7 +27,7 @@
                         <tr>
                             <td>RAM</td>
                             <td>Corsair + Kingston</td>
-                            <td>4x4 GB DDR3 1600Mhz</td>
+                            <td>3x4GB DDR3 1600Mhz</td>
                         </tr>
                         <tr>
                             <td>GPU</td>
@@ -36,8 +36,8 @@
                         </tr>
                         <tr>
                             <td>Disk Drives</td>
-                            <td>Samsung + Seagate</td>
-                            <td>128GB SSD + 1TB SSHD</td>
+                            <td>Samsung</td>
+                            <td>128GB SSD</td>
                         </tr>
                         <tr>
                             <td>Wireless Card</td>
@@ -45,11 +45,46 @@
                             <td>Atheros AR922X</td>
                         </tr>
                         <tr>
-                            <td>Operating System</td>
-                            <td>&nbsp;</td>
-                            <td>Ubuntu Studio 24.04 LTS</td>
+                            <td>Bluetooth Module</td>
+                            <td>MSI</td>
+                            <td>Bluetooth EDR Device</td>
                         </tr>
-                    </table>
+                        <tr>
+                            <td>Operating System</td>
+                            <td>Microsoft</td>
+                            <td>Windows 7 Professional</td>
+                        </tr>
+                    </tbody></table>
+
+## Home server specifications
+
+<table>
+                        <tbody><tr>
+                          <th>Component</th>
+                          <th>Manufacturer</th>
+                          <th>Amount / Version / Size</th>
+                        </tr>
+                        <tr>
+                          <td>CPU</td>
+                          <td>Intel</td>
+                          <td>Core i3-3240</td>
+                        </tr>
+                        <tr>
+                            <td>RAM</td>
+                            <td>Kingston</td>
+                            <td>4GB DDR3 1600Mhz</td>
+                        </tr>
+                        <tr>
+                            <td>Disk Drives</td>
+                            <td>Seagate</td>
+                            <td>1TB SSHD<sup>1</sup></td>
+                        </tr>
+                        <tr>
+                            <td>Operating System</td>
+                            <td>Microsoft</td>
+                            <td>Windows Home Server 2011</td>
+                        </tr>
+                    </tbody></table>
 
 ## Languages I speak
 
